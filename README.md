@@ -21,7 +21,7 @@
 
 ### 1. 获取代码
 ```bash
-git clone [https://github.com/Nu0TXer/Easy-Terminal-Chatroom.git](https://github.com/Nu0TXer/Easy-Terminal-Chatroom.git)
+git clone https://github.com/Nu0TXer/Easy-Terminal-Chatroom.git
 cd Easy-Terminal-Chatroom
 ```
 
