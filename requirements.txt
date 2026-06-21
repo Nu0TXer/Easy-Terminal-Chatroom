@@ -1,0 +1,9 @@
+# Easy-Terminal-Chatroom Requirements
+# -----------------------------------
+# Python 的内置标准库：
+# - socket
+# - threading
+# - base64
+# - sys
+#
+# 推荐运行环境：Python 3.6 或更高版本。
