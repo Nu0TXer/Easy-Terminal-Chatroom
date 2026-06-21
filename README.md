@@ -40,7 +40,6 @@ python client.py
 根据提示输入昵称后即可开始聊天。输入 `quit` 退出程序。
 
 ## 📸 运行截图
-(https://github.com/Nu0TXer/Easy-Terminal-Chatroom/blob/main/Demo%20Screenshot.png)
-
+![Demo](Demo%20Screenshot.png)
 ---
 **License:** MIT
